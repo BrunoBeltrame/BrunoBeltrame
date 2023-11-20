@@ -1,4 +1,4 @@
-### Olá! Prazer, eu me chamo Bruno 👋
+### Olá! Prazer, me chamo Bruno Beltrame 👋
 
 - 📚 Estudo Análise e Desenvolvimento de Sistemas.
 - 🌱 Atualmente estou aprendendo sobre IAs aplicadas a linguaguens de programação como Python e JavaScript.
