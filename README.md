@@ -1,7 +1,7 @@
 ### Olá! Prazer, me chamo Bruno Beltrame 👋
 
 - 📚 Estudo Análise e Desenvolvimento de Sistemas.
-- 🌱 Atualmente estou aprendendo sobre IAs aplicadas a linguaguens de programação como Python e JavaScript.
+- 🌱 Atualmente estou focado em aprender sobre IAs aplicadas a linguaguens de programação como Python e JavaScript.
 ##
 
 <div align="center">
