@@ -29,4 +29,4 @@
   <a href="brunobeltrame2004@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/BrunoBeltrame/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/BrunoBeltrame/BrunoBeltrame/github-contribution-grid-snake.svg)
