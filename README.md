@@ -28,3 +28,11 @@
   <a href="https://www.instagram.com/bruno_gbeltrame/?igshid=MWNxanV2bWg5Y3llag%3D%3D" target"_blank"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="brunobeltrame2004@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
+
+<picture>
+ <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+    width=100%
+  />
+</picture>
